@@ -1,0 +1,433 @@
+body{
+	font-family: arial;
+}
+.tudo{
+	padding: 20px;
+}
+
+.linha{
+	clear: both;
+	background-color: #328e0e;
+	padding: 10px;
+}
+
+#menuimagem{
+	float: left;
+	width: 5%;
+}
+
+.menuimagem{
+	max-width: 25px;
+	padding: 10px;
+}
+
+#menu{
+	float: left;
+	width: 5%;
+	font-size: 14px;
+	color: #fff;
+}
+
+#idge{
+	margin-top: -20px;
+	float: left;
+	width: 3%;
+	font-size: 25px;
+	color: #fff;
+}
+
+#escudo{
+	float: left;
+	width: 5%;
+}
+
+.escudo{
+	padding: 10px;
+	max-width: 20px;
+}
+
+#titulo{
+	float: left;
+	width: 63%;
+	margin-top: -30px;
+}
+
+.titulo{
+	color: #fff;
+	max-width: 45%;	
+	font-size: 30px;
+}
+
+#lupa{
+	float: left;
+	width: 2%;
+	padding: 10px;
+}
+
+.lupa{
+	max-width: 15px;
+}
+
+.busca{
+	font-size: 12px;
+	color: #fff;
+	text-align: left;
+}
+
+.linha1{
+	clear: both;
+}
+
+.icons3{
+	max-width: 25px;
+	padding: 10px;
+}
+
+#setae{
+	float: left;
+	width: 39%;
+	margin-left: 10px;
+}
+
+#primeirafase{
+	float: left;
+	width: 20%;
+	font-size: 20px;
+	text-align: center;
+}
+
+#setad{
+	float: right;
+	width: 5%;
+	margin-right: 10px;
+}
+
+#coluna1{
+	float: left;
+	width: 60%;
+	padding-left: 20px;
+}
+
+#coluna2{
+	float: left;
+	width: 5%;
+}
+
+#coluna3{
+	float: left;
+	width: 31%;
+}
+
+table{
+	max-width: 100%;
+	border: solid 1px;
+	font-family: arial, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+}
+
+.c1{
+	margin: 14px;
+}
+
+th{
+	border: 1px solid #fff;
+  	text-align: left;
+ 	padding: 15px;
+ 	color: #afafaf;
+
+}
+
+td{
+  	border: 1px solid #dddddd;
+  	text-align: left;
+  	padding: 15px;
+}
+
+.cortabela{
+	background-color: #f4f4f4;
+}
+
+.circle{
+	background-color: #20d826;
+	border-radius: 100%;
+	width: 8px;
+	height: 8px;
+	margin-left: 8px;
+	float: left;
+}
+
+.circle1{
+	border-radius: 100%;
+	background-color: #a59d9d;
+	width:8px;
+	height: 8px;
+	margin-left: 8px;
+	float: left;
+}
+
+.circle2{
+	border-radius: 100%;
+	background-color: #ed0909;
+	width:8px;
+	height: 8px;
+	margin-left: 8px;
+	float: left;
+}
+
+#cor{
+	color: #0d60e5;
+}
+
+#color1{
+	color: #a59d9d;
+}
+
+#color2{
+	color: #ed0909;
+}
+
+.icons{
+	max-width: 40px;
+}
+
+.linha7{
+	clear: both;
+}
+
+.icons4{
+	max-width: 20px;
+	padding: 10px;
+}
+
+#subti{
+	float: left;
+	text-align: center;
+	font-size: 14px;
+}
+
+.linha3{
+	clear: both;
+	padding: 0px 0px 40px 0px;
+}
+
+#ntime1{
+	float: left;
+	width: 15%;
+}
+
+#itime1{
+	float: left;
+	width: 28%;
+}
+
+#x{
+	float: left;
+	width: 20%;
+	color: #bababa;
+}
+
+#ntime2{
+	float: left;
+	width: 15%;
+}
+
+#itime2{
+	float: left;
+	width: 20%;
+}
+
+.linha4{
+	clear: both;
+}
+
+.linha5{
+	clear: both;
+	font-size: 12px;
+}
+
+#data{
+	font-size: 13px;
+	text-align: center;
+	padding: 0px 0px 15px 0px;
+}
+
+.cinza{
+	color:#757775;
+}
+
+.icons2{
+	max-width: 15px;
+}
+
+#quadradoverm{
+	background: #ed0909; 
+	width: 9px;
+	height: 9px;
+	float: left;
+	margin: 15px 10px 0px 0px;
+}
+
+#rebaix{
+	float: left;
+	width: 7%;
+}
+
+#quadradoazul{
+	width: 2%;
+	background: #1245b5; 
+	width: 9px;
+	height: 9px;
+	float: left;
+	margin: 15px;
+}
+
+#classific{
+	float: left;
+	width: 8%;
+}
+
+#subiu{
+	float: left;
+	width: 3%;
+}
+
+#setasubiu{
+	float: left;
+	width: 1%;
+	margin: 16px;
+}
+
+#caiu{
+	float: left;
+	width: 2%;
+}
+
+#setacaiu{
+	float: left;
+	width: 1%;
+	margin: 16px;
+}
+
+#quadradocinza{
+	width: 2%;
+	background: #dbdbdb; 
+	width: 9px;
+	height: 9px;
+	margin: 16px;
+	float: left;
+}
+
+#manteve{
+	float: left;
+	width: 6%;
+}
+
+#circuloverde{
+	width: 2%;
+	border-radius: 100%;
+	background: #20d826; 
+	width: 9px;
+	height: 9px;
+	margin: 16px;
+	float: left;
+}
+
+#vitoria{
+	float: left;
+	width: 4%;
+}
+
+#circulocinza{
+	width: 2%;
+	border-radius: 100%;
+	background: #afafaf; 
+	width: 9px;
+	height: 9px;
+	margin: 16px;
+	float: left;
+}
+
+#empate{
+	float: left;
+	width: 5%;
+}
+
+#circuloverm{
+	width: 2%;
+	float: left;
+	width: 10%;
+	border-radius: 100%;
+	background: #ed0909; 
+	width: 9px;
+	height: 9px;
+	margin: 16px;
+	float: left;
+}
+
+#derrota{
+	float: left;
+	width: 5%;
+}
+
+#regurla{
+	color: #196819;
+	float: right;	
+}
+
+.linha6{
+	clear: both;
+}
+
+#subti2{
+	padding: 30px;
+	font-size: 16px;
+}
+
+.pa{
+	max-width: 45px;
+	padding: 10px;
+}
+
+.numer{
+	font-size: 30px;
+	color: #757775;
+}
+
+.numer0{
+	font-size: 30px;
+	color: #fff;
+}
+
+.numer1{
+	font-size: 25px;
+}
+
+#numer{
+	float: left;
+	width: 5%;
+}
+
+.jogad{
+	font-size: 18px;
+}
+
+.posiç{
+	font-size: 12px;
+	color: #757775;
+}
+
+#jogadimg{
+	float: left;
+	width: 10%;
+}
+
+#timeimg{
+	float: left;
+	width: 10%;
+}
+
+#jogad{
+	float: left;
+	width: 80%;
+}
